@@ -21,4 +21,9 @@
 #### Fyrirbyggjandi viðhald (eða "Preventive Maintenance") er það að gera viðhald á tölvu til að minnka líkur á skemmd
 ---
 
+## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
+#### ESD stendur fyrir "ElectroStatic Discharge" og til að komast í veg fyrir að það skemmi tölvubúnaðinn notum við sérstakar mottur og armbönd
+---
+
+## 5.
