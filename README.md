@@ -16,4 +16,9 @@
 #### ROM stendur fyrir "Read Only Memory" og geymir hluti sem ekki er hægt að breyta
 ---
 
+## 3. Hvað er fyrirbyggjandi viðhald?
+
+#### Fyrirbyggjandi viðhald (eða "Preventive Maintenance") er það að gera viðhald á tölvu til að minnka líkur á skemmd
+---
+
 
