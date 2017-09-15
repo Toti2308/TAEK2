@@ -26,4 +26,8 @@
 #### ESD stendur fyrir "ElectroStatic Discharge" og til að komast í veg fyrir að það skemmi tölvubúnaðinn notum við sérstakar mottur og armbönd
 ---
 
-## 5.
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+#### Þarf að gefa nóg wött
+---
+
